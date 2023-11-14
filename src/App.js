@@ -19,7 +19,6 @@ function App() {
         console.log(error);
       });
   }
-
   return (
     <div className='app'>
         <div className='card'>
